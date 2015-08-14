@@ -1,5 +1,7 @@
-Welcome to Mud Designer's documentation!
+Mud Designer Documentation
 ========================================
+
+.. include:: ../common/under-construction.txt
 
 Contents:
 
