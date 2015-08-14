@@ -1,7 +1,7 @@
 Mud Designer Documentation
 ========================================
 
-.. include:: ../common/under-construction.txt
+.. include:: /shared/under-construction.txt
 
 Contents:
 
