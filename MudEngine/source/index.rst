@@ -6,7 +6,9 @@ Mud Designer Documentation
 Contents:
 
 .. toctree::
-   :maxdepth: 2
+   :titlesonly:
+   
+   getting-started/index
 
 
 
