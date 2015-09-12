@@ -7,6 +7,6 @@ Getting Started
 .. toctree::
    :titlesonly:
 
-   getting-started/installing-on-windows
-   getting-started/installing-on-osx
-   getting-started/understanding-the-architecture
+   installing-on-windows
+   installing-on-osx
+   understanding-the-architecture
