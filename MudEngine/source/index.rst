@@ -11,7 +11,6 @@ Contents:
    getting-started/index
 
 
-
 Indices and tables
 ==================
 
