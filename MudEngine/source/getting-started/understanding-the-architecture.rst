@@ -20,3 +20,6 @@ The core supports two different component types at runtime.
 A different project may implement the interfaces required by the engine as components, allowing different projects to have different sets of rules and behaviors. Components make up things that run in parallel with other objects in the game, but typically always on the engines main thread. An example of this would be characters, equipment and rooms.
 
 A project may also adopt the Adapter system of the engine. Adapters can run on their own background thread if they want. Adapters allow a project to add complete new systems to the game, that were not originally accounted for by the engine. An example of this would be the world time, a networked server and complex persistance systems.
+
+Mud Engine Game
+***************
